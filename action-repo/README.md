@@ -12,4 +12,5 @@ It is a dummy repo where you can make commits, create pull requests, and merge b
 1. Make a commit → triggers push event.
 2. Open a pull request → triggers pull_request event.
 3. Merge a pull request → triggers merge event.
+
 These events will be received by the webhook-repo and displayed in the UI.
