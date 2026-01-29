@@ -1,4 +1,5 @@
-Overview
+# Overview
+
 This project is part of the Techstax Developer Assessment. It demonstrates integration between GitHub Actions, Webhooks, Flask, MongoDB, and a UI that polls for updates every 15 seconds.
 The solution is split into two repositories:
 • action-repo → A dummy repository to trigger GitHub events (push, pull_request, merge).
